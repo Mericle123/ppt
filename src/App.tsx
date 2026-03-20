@@ -348,7 +348,7 @@ const Slide6: React.FC<SlideProps> = () => (
 
       <div className="relative">
         <img
-          src="go.png"
+          src="go.jpeg"
           alt="Sports action"
           className="rounded-3xl shadow-2xl grayscale hover:grayscale-0 transition-all duration-700"
           referrerPolicy="no-referrer"
