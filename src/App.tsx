@@ -362,6 +362,7 @@ const Slide6: React.FC<SlideProps> = () => (
 );
 
 const Slide7: React.FC<SlideProps> = () => {
+  ``
   const data = [
     { name: 'Digital Marketing', value: 30, color: '#10b981' },
     { name: 'Tournaments', value: 35, color: '#3b82f6' },
@@ -442,7 +443,7 @@ const SlideTeam: React.FC<SlideProps> = () => {
     },
     {
       name: "Kuenzang Wangchuk",
-      role: "Head of Finance & Operations",
+      role: "Developer ",
       image: "k2.jpeg"
     },
   ];
